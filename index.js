@@ -42,3 +42,5 @@ soHangChuc = 80 / 10;
 tinhTong = soHangDonVi + soHangChuc;
 //dau ra
 console.log("Tổng là: " + tinhTong);
+
+adadsasdasd
